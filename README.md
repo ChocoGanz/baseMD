@@ -4,7 +4,7 @@
 - pkg update && pkg upgrade
 - pkg install nodejs
 - pkg install git
-- git clone https://github.com/ChocoGanz/chocoMD
+- git clone https://github.com/ChocoGanz/baseMD
 - cd chocoMD
 - npm install
 - node index.js
@@ -13,5 +13,5 @@
 - npm install
 - node index.js
 # Thanks To
-- [https://github.com/Adiwajshing/baileys#multi-device](Adiwajshing)
-- [https://github.com/ChocoGanz](Choco)
+- [Adiwajshing](https://github.com/Adiwajshing/baileys#multi-device)
+- [Choco](https://github.com/ChocoGanz)
